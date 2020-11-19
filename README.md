@@ -22,4 +22,5 @@ cd ProjetoViaVarejo
 bundle install
 
 Rodando os testes
+
 cucumber
